@@ -1,2 +1,3 @@
 # VirtualVoterPledgeCard
-Creating a virtual voter pledge card for frontline voter groups to use on their website.
+Goal: Create a virtual voter pledge card for frontline voter groups to use and host on their website.
+
